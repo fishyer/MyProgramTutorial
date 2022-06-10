@@ -1,0 +1,26 @@
+- 来源：[Memcached-教程](https://www.runoob.com/Memcached/Memcached-tutorial.html)
+- [Memcached-教程](https://www.runoob.com/memcached/memcached-tutorial.html)
+- [Linux-Memcached-安装](https://www.runoob.com/memcached/memcached-install.html)
+- [Window-Memcached-安装](https://www.runoob.comwindow-install-memcached.html)
+- [Memcached-连接](https://www.runoob.com/memcached/memcached-connection.html)
+- Memcached 存储命令
+- [Memcached-set-命令](https://www.runoob.com/memcached/memcached-set-data.html)
+- [Memcached-add-命令](https://www.runoob.com/memcached/memcached-add-data.html)
+- [Memcached-replace-命令](https://www.runoob.com/memcached/memcached-replace-data.html)
+- [Memcached-append-命令](https://www.runoob.com/memcached/memcached-append-data.html)
+- [Memcached-prepend-命令](https://www.runoob.com/memcached/memcached-prepend-data.html)
+- [Memcached-CAS-命令](https://www.runoob.com/memcached/memcached-cas.html)
+- Memcached 查找命令
+- [Memcached-get-命令](https://www.runoob.com/memcached/memcached-get-data.html)
+- [Memcached-gets-命令](https://www.runoob.com/memcached/memcached-get-cas-data.html)
+- [Memcached-delete-命令](https://www.runoob.com/memcached/memcached-delete-key.html)
+- [Memcached-incr-与-decr-命令](https://www.runoob.com/memcached/memcached-incr-decr.html)
+- Memcached 统计命令
+- [Memcached-stats-命令](https://www.runoob.com/memcached/memcached-stats.html)
+- [Memcached-stats-items-命令](https://www.runoob.com/memcached/memcached-stats-items.html)
+- [Memcached-stats-slabs-命令](https://www.runoob.com/memcached/memcached-stats-slabs.html)
+- [Memcached-stats-sizes-命令](https://www.runoob.com/memcached/memcached-stats-sizes.html)
+- [Memcached-flush_all-命令](https://www.runoob.com/memcached/memcached-clear-data.html)
+- Memcached 实例
+- [Java-连接-Memcached-服务](https://www.runoob.com/memcached/java-memcached.html)
+- [PHP-连接-Memcached-服务](https://www.runoob.comphp-connect-memcached.html)

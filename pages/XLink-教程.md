@@ -1,0 +1,8 @@
+- 来源：[XLink-教程](https://www.runoob.com/xlink/xlink-tutorial.html)
+- [XLink-和-XPointer-教程](https://www.runoob.com/xlink/xlink-tutorial.html)
+- [XLink-和-XPointer-简介](https://www.runoob.com/xlink/xlink-intro.html)
+- [XLink-和-XPointer-语法](https://www.runoob.com/xlink/xlink-syntax.html)
+- [XLink-实例](https://www.runoob.com/xlink/xlink-example.html)
+- [XPointer-实例](https://www.runoob.com/xlink/xpointer-example.html)
+- [XLink-总结](https://www.runoob.com/xlink/xlink-summary.html)
+- [XLink-参考手册](https://www.runoob.com/xlink/xlink-reference.html)
